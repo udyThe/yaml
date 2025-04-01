@@ -131,23 +131,10 @@ python app.py
 
 You will see all students displayed, and then you can enter a GPA threshold to filter students.
 
-## 6. Expected Output
-```
-All Students:
-Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
-Name: Bob, Age: 22, Major: Mathematics, GPA: 3.5
-Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
-Name: David, Age: 23, Major: Chemistry, GPA: 3.2
-Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
-
-Enter minimum GPA to filter students: 3.7
-
-Students with GPA >= 3.7:
-Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
-Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
-Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
-```
-
+## 6. Output
+<p align="center">
+  <img src="img/img1.png" alt="Project Screenshot" />
+</p>
 ## 7. Conclusion
 This project demonstrates how to work with YAML in Python using the PyYAML library. YAML is a great format for configuration files, and this script showcases a practical example of data loading, processing, and filtering.
 
